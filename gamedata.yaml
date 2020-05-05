@@ -1,0 +1,718 @@
+attributes:
+- swordsmanship
+- land
+- honor
+- generalship
+- warriors
+family-names:
+- Takehisa
+- Oribei
+- Yoichi
+- Kansuke
+- Gorozaemon
+- Motoharu
+- Ichiyuken
+- Yasuyori
+- Ukyo
+- Eigen
+- Terumasa
+- Toyoaki
+- Sozo
+- Hironori
+- Masasaki
+- Hiroteru
+- Hideo
+- Okiyuki
+- Sadamura
+- Ungo
+- Harunobu
+- Genzaemon
+- Zatoichi
+- Tomonori
+- Hirotaka
+- Genbei
+- Ujinoro
+- Jinbei
+- Chizaemon
+- Eijun
+- Akahito
+- Okifusa
+- Buntaro
+- Mitsune
+- Denko
+- Takeaki
+- Masato
+- Yukihira
+- Nagamasa
+- Sadaie
+- Toshiro
+- Sakuan
+- Ieyasu
+- Doko
+- Kiyosuke
+- Bukahito
+- Choon
+- Yukinaga
+- Eisei
+- Yukinari
+- Ichian
+- Nakano
+- Asakari
+- Yukio
+- Hirooki
+- Naohiro
+- Nagachika
+- Daigaku
+- Jinku
+- Terutora
+- Anteki
+- Akifusa
+- Shoun
+- Ujikiyo
+- Junkei
+- Jokyu
+- Munesada
+- Geki
+- Fuhito
+- Kuemon
+- Bukiyo
+- Daigoro
+- Riemon
+- Kiyoji
+- Tamenaka
+- Gohei
+- Rokubei
+- Fusazaemon
+- Takanobu
+- Arihito
+- Osoroshi
+- Hiroyasu
+- Umakai
+- Yoshiaki
+- Ryotetsu
+- Jibusaemon
+- Masanori
+- Tadahiro
+- Inosuke
+- Doken
+- Yasuhira
+- Kinbei
+- Fusayuki
+- Sumimoto
+- Nobukimi
+- Iesada
+- Rihei
+- Kichibei
+- Chomei
+- Oshikatsu
+- Harukata
+- Chuemon
+- Kiyomasa
+- Chuzobo
+players:
+- age: 18
+  ai: false
+  generalship: 4.0
+  honor: 3.0
+  id: 001ddde0-216f-4435-9878-cde27fc9eef7
+  land: 2.0
+  level: 1
+  location: home
+  name: dingo
+  province: Satsuma
+  swordsmanship: 0.0
+  warriors: 1.0
+- age: 28
+  ai: true
+  generalship: 4.0
+  honor: 4.0
+  id: a5ecd695-20d4-4a29-9321-2acb8f77c06d
+  land: 3.0
+  level: 1
+  location: home
+  name: Buntaro
+  province: Satsuma
+  swordsmanship: 0.0
+  warriors: 0.0
+- age: 22
+  ai: true
+  generalship: 7.0
+  honor: 3.0
+  id: b976045b-bda2-4e89-a449-b18c6c33b2e8
+  land: 1.0
+  level: 1
+  location: home
+  name: Tadahiro
+  province: Satsuma
+  swordsmanship: 0.0
+  warriors: 1.0
+- age: 30
+  ai: true
+  generalship: 4.0
+  honor: 2.0
+  id: 353416bf-6193-47de-8656-6e419c9d1204
+  land: 4.0
+  level: 1
+  location: home
+  name: Takehisa
+  province: Satsuma
+  swordsmanship: 2.0
+  warriors: 0.0
+provinces:
+  Aki:
+    clan: Mori
+    generalship: 7.0
+    honor: 3.0
+    land: 2.0
+    neighbors:
+    - Iwami
+    - Suwo
+    - Bingo
+    swordsmanship: 6.0
+  Bingo:
+    clan: Kobayakawa
+    generalship: 6.0
+    honor: 3.0
+    land: 5.0
+    neighbors:
+    - Aki
+    - Iwami
+    - Izumo
+    - Hoki
+    - Bitchu
+    swordsmanship: 4.0
+  Bitchu:
+    clan: Matsuya
+    generalship: 5.0
+    honor: 5.0
+    land: 3.0
+    neighbors:
+    - Bingo
+    - Hoki
+    - Mimasaka
+    - Bizen
+    swordsmanship: 5.0
+  Bizen:
+    clan: Ukita
+    generalship: 6.0
+    honor: 3.0
+    land: 3.0
+    neighbors:
+    - Harima
+    - Mimasaka
+    - Bitchu
+    swordsmanship: 6.0
+  Bungo:
+    clan: Otomo
+    generalship: 6.0
+    honor: 5.0
+    land: 2.0
+    neighbors:
+    - Hyuga
+    - Higo
+    - Hizen
+    - Chikuzen
+    - Suwo
+    swordsmanship: 5.0
+  Chikuzen:
+    clan: Hosokawa
+    generalship: 4.0
+    honor: 6.0
+    land: 5.0
+    neighbors:
+    - Bungo
+    - Hizen
+    - Nagato
+    swordsmanship: 3.0
+  Dewa:
+    clan: Mogami
+    generalship: 4.0
+    honor: 5.0
+    land: 4.0
+    neighbors:
+    - Echigo
+    - Mutsu
+    swordsmanship: 5.0
+  Echigo:
+    clan: Uesugi
+    generalship: 7.0
+    honor: 6.0
+    land: 3.0
+    neighbors:
+    - Etchu
+    - Shinano
+    - Kozuke
+    - Mutsu
+    - Dewa
+    swordsmanship: 2.0
+  Echizen:
+    clan: Asakura
+    generalship: 6.0
+    honor: 6.0
+    land: 3.0
+    neighbors:
+    - Tango
+    - Omi
+    - Mino
+    - Hida
+    - Kaga
+    swordsmanship: 3.0
+  Etchu:
+    clan: Jinbo
+    generalship: 5.0
+    honor: 3.0
+    land: 5.0
+    neighbors:
+    - Kaga
+    - Hida
+    - Shinano','Echigo
+    swordsmanship: 5.0
+  Harima:
+    clan: Ikeda
+    generalship: 4.0
+    honor: 7.0
+    land: 4.0
+    neighbors:
+    - Bizen
+    - Mimasaka
+    - Inaba
+    - Tango
+    - Tamba
+    - Settsu
+    swordsmanship: 3.0
+  Hida:
+    clan: Ishikawa
+    generalship: 5.0
+    honor: 5.0
+    land: 6.0
+    neighbors:
+    - Echizen
+    - Kaga
+    - Etchu
+    - Shinano
+    - Mino
+    swordsmanship: 2.0
+  Higo:
+    clan: Aso
+    generalship: 5.0
+    honor: 4.0
+    land: 3.0
+    neighbors:
+    - Satsuma
+    - Hyuga
+    - Bungo','Hizen
+    swordsmanship: 6.0
+  Hitachi:
+    clan: Satake
+    generalship: 3.0
+    honor: 4.0
+    land: 7.0
+    neighbors:
+    - Shimosa
+    - Kozuke
+    - Mutsu
+    swordsmanship: 4.0
+  Hizen:
+    clan: Ryuzoji
+    generalship: 2.0
+    honor: 4.0
+    land: 7.0
+    neighbors:
+    - Higo
+    - Bungo
+    - Chikuzen
+    swordsmanship: 5.0
+  Hoki:
+    clan: Kikkawa
+    generalship: 3.0
+    honor: 5.0
+    land: 6.0
+    neighbors:
+    - Izumo
+    - Bingo
+    - Bitchu
+    - Mimasaka
+    - Inaba
+    swordsmanship: 4.0
+  "Hy\u016Bga":
+    clan: Takahashi
+    description: "Hy\u016Bga Province (\u65E5\u5411\u56FD, Hy\u016Bga no kuni) was\
+      \ an old province of\nJapan on the east coast of Ky\u016Bsh\u016B, corresponding\
+      \ to the modern Miyazaki\nPrefecture. It was sometimes called Nissh\u016B (\u65E5\
+      \u5DDE) or K\u014Dsh\u016B (\u5411\u5DDE). Hy\u016Bga\nbordered on Bungo, Higo,\
+      \ \u014Csumi, and Satsuma Province.\n\nDuring the Sengoku period, the area was\
+      \ often divided into a northern fief\naround Agata castle (near modern Nobeoka),\
+      \ and a southern fief around Obi\ncastle, near modern Nichinan. The southern\
+      \ fief was held by the Shimazu clan\nof nearby Satsuma for much of the period.\
+      \ The It\u014D clan held control of Hyuga\nuntil it was conquered by the Shimazu\
+      \ in 1578. \n"
+    generalship: 5.0
+    honor: 3.0
+    jp-name: "\u65E5\u5411\u56FD"
+    land: 5.0
+    neighbors:
+    - Higo
+    - Bungo
+    - Satsuma
+    swordsmanship: 5.0
+  Inaba:
+    clan: Yamana
+    generalship: 2.0
+    honor: 4.0
+    land: 5.0
+    neighbors:
+    - Hoki
+    - Mimasaka
+    - Tango
+    - Harima
+    swordsmanship: 4.0
+  Ise:
+    clan: Kitabatake
+    generalship: 3.0
+    honor: 4.0
+    land: 6.0
+    neighbors:
+    - Kii
+    - Yamato
+    - Omi
+    - Mino
+    swordsmanship: 5.0
+  Iwami:
+    clan: Toida
+    generalship: 5.0
+    honor: 5.0
+    land: 5.0
+    neighbors:
+    - Aki
+    - Suwo
+    - Nagato
+    - Izumo
+    - Bingo
+    swordsmanship: 3.0
+  Iyo:
+    clan: Todo
+    generalship: 3.0
+    honor: 4.0
+    land: 4.0
+    neighbors:
+    - Sanuki
+    - Tosa
+    swordsmanship: 7.0
+  Izu:
+    clan: Kasigi
+    generalship: 5.0
+    honor: 2.0
+    land: 3.0
+    neighbors:
+    - Suruga
+    - Sagami
+    swordsmanship: 8.0
+  Izumi:
+    clan: Miyoshi
+    generalship: 2.0
+    honor: 4.0
+    land: 4.0
+    neighbors:
+    - Sanuki
+    - Kii
+    - Yamato
+    - Omi
+    - Settsu
+    swordsmanship: 7.0
+  Izumo:
+    clan: Amako
+    generalship: 2.0
+    honor: 4.0
+    land: 4.0
+    neighbors:
+    - Iwami
+    - Bingo
+    - Hoki
+    swordsmanship: 5.0
+  Kaga:
+    clan: Niwa
+    generalship: 4.0
+    honor: 5.0
+    land: 4.0
+    neighbors:
+    - Echizen
+    - Hida
+    - Etchu
+    swordsmanship: 6.0
+  Kai:
+    clan: Takeda
+    generalship: 8.0
+    honor: 5.0
+    land: 3.0
+    neighbors:
+    - Sagami
+    - Suruga
+    - Shinano
+    - Musashi
+    swordsmanship: 2.0
+  Kii:
+    clan: Horiuchi
+    generalship: 3.0
+    honor: 5.0
+    land: 5.0
+    neighbors:
+    - Izumi
+    - Yamato
+    - Ise
+    - Sanuki
+    swordsmanship: 5.0
+  Kozuke:
+    clan: Asano
+    generalship: 5.0
+    honor: 6.0
+    land: 4.0
+    neighbors:
+    - Shimosa
+    - Musashi
+    - Shinano
+    - Echigo
+    - Mutsu
+    - Hitachi
+    swordsmanship: 3.0
+  Mikawa:
+    clan: Tokugawa
+    generalship: 7.0
+    honor: 7.0
+    land: 2.0
+    neighbors:
+    - Totomi
+    - Shinano
+    - Mino
+    swordsmanship: 2.0
+  Mimasaka:
+    clan: Tsuyama
+    generalship: 5.0
+    honor: 6.0
+    land: 5.0
+    neighbors:
+    - Bizen
+    - Bitchu
+    - Hoki
+    - Inaba
+    - Harima
+    swordsmanship: 2.0
+  Mino:
+    clan: Oda
+    generalship: 7.0
+    honor: 3.0
+    land: 3.0
+    neighbors:
+    - Ise
+    - Omi
+    - Echizen
+    - Hida
+    - Shinano
+    - Mikawa
+    swordsmanship: 6.0
+  Musashi:
+    clan: Miyagi
+    generalship: 3.0
+    honor: 3.0
+    land: 6.0
+    neighbors:
+    - Sagami
+    - Kai
+    - Kozuke
+    - Shimosa
+    swordsmanship: 6.0
+  Mutsu:
+    clan: Date
+    generalship: 4.0
+    honor: 3.0
+    land: 8.0
+    neighbors:
+    - Hitachi
+    - Kozuke
+    - Echigo
+    - Dewa
+    swordsmanship: 3.0
+  Nagato:
+    clan: Naito
+    generalship: 2.0
+    honor: 4.0
+    land: 5.0
+    neighbors:
+    - Chikuzen
+    - Suwo
+    - Iwami
+    swordsmanship: 7.0
+  Omi:
+    clan: Asai
+    generalship: 6.0
+    honor: 3.0
+    land: 4.0
+    neighbors:
+    - Tango
+    - Echizen
+    - Mino
+    - Ise
+    - Yamato
+    - Izumi
+    - Settsu
+    - Tamba
+    swordsmanship: 5.0
+  Sagami:
+    clan: Hojo
+    generalship: 7.0
+    honor: 2.0
+    land: 4.0
+    neighbors:
+    - Izu
+    - Suruga
+    - Kai
+    - Musashi
+    swordsmanship: 6.0
+  Sanuki:
+    clan: Hachisuka
+    generalship: 4.0
+    honor: 4.0
+    land: 6.0
+    neighbors:
+    - Iyo
+    - Tosa
+    - Izumi
+    - Kii
+    swordsmanship: 4.0
+  Satsuma:
+    clan: Shimazu
+    description: "Satsuma Province (\u85A9\u6469\u56FD, Satsuma-no Kuni) was an old\
+      \ province of Japan that\nis now the western half of Kagoshima Prefecture on\
+      \ the island of Ky\u016Bsh\u016B.\n\nDuring the Sengoku period, the area was\
+      \ often divided into a northern fief\naround Agata castle (near modern Nobeoka),\
+      \ and a southern fief around Obi\ncastle, near modern Nichinan. The southern\
+      \ fief was held by the Shimazu clan\nof nearby Satsuma for much of the period.\
+      \ The It\u014D clan held control of Hyuga\nuntil it was conquered by the Shimazu\
+      \ in 1578. \n"
+    generalship: 7.0
+    hatamoto: 6e1b82e1-583c-484e-8b00-28ec747eb72b
+    honor: 4.0
+    jp-name: "\u85A9\u6469\u56FD"
+    land: 4.0
+    members:
+    - 001ddde0-216f-4435-9878-cde27fc9eef7
+    - a5ecd695-20d4-4a29-9321-2acb8f77c06d
+    - b976045b-bda2-4e89-a449-b18c6c33b2e8
+    - 353416bf-6193-47de-8656-6e419c9d1204
+    name: Satsuma
+    neighbors:
+    - Higo
+    - Hyuga
+    swordsmanship: 2.0
+  Settsu:
+    clan: Toyotomi
+    generalship: 7.0
+    honor: 2.0
+    land: 4.0
+    neighbors:
+    - Harima
+    - Tamba
+    - Omi
+    - Izumi
+    swordsmanship: 5.0
+  Shimosa:
+    clan: Satomi
+    generalship: 5.0
+    honor: 5.0
+    land: 2.0
+    neighbors:
+    - Musashi
+    - Hitachi
+    - Kozuke
+    swordsmanship: 6.0
+  Shinano:
+    clan: Murakami
+    generalship: 4.0
+    honor: 3.0
+    land: 4.0
+    neighbors:
+    - Totomi
+    - Mikawa
+    - Mino
+    - Hida
+    - Etchu
+    - Echigo
+    - Kozuke
+    - Kai
+    - Suruga
+    swordsmanship: 7.0
+  Suruga:
+    clan: Nakamura
+    generalship: 2.0
+    honor: 7.0
+    land: 6.0
+    neighbors:
+    - Izu
+    - Sagami
+    - Kai
+    - Shinano
+    - Totomi
+    swordsmanship: 3.0
+  Suwo:
+    clan: Ouchi
+    generalship: 2.0
+    honor: 7.0
+    land: 7.0
+    neighbors:
+    - Bungo
+    - Nagato
+    - Iwami
+    - Aki
+    swordsmanship: 2.0
+  Tamba:
+    clan: Hatano
+    generalship: 4.0
+    honor: 4.0
+    land: 7.0
+    neighbors:
+    - Harima
+    - Tango
+    - Omi
+    - Settsu
+    swordsmanship: 3.0
+  Tango:
+    clan: Ishiki
+    generalship: 3.0
+    honor: 2.0
+    land: 6.0
+    neighbors:
+    - Inaba
+    - Harima
+    - Tamba
+    - Omi
+    - Echizen
+    swordsmanship: 7.0
+  Tosa:
+    clan: Shosokabe
+    generalship: 5.0
+    honor: 6.0
+    land: 3.0
+    neighbors:
+    - Iyo
+    - Sanuki
+    swordsmanship: 4.0
+  Totomi:
+    clan: Imagawa
+    generalship: 3.0
+    honor: 8.0
+    land: 4.0
+    neighbors:
+    - Suruga
+    - Shinano
+    - Mikawa
+    swordsmanship: 3.0
+  Yamato:
+    clan: Tsutsui
+    generalship: 5.0
+    honor: 2.0
+    land: 5.0
+    neighbors:
+    - Kii
+    - Izumi
+    - Omi
+    - Ise
+    swordsmanship: 6.0
